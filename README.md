@@ -1,7 +1,7 @@
 # ADNI
  predict ADAS and MMSE score based on genotype
 
-## Dependency 
+## Dependencies 
 ### python packages
 python3  
 numpy  
@@ -14,7 +14,7 @@ rpy2
 glmnet  
 
 ## Data 
-Here is only the description, not public download. Because the access permission should apply from The Alzheimer's Disease Neuroimaging Initiative (ADNI, http://adni.loni.usc.edu).   
+Here is only the description, not public download. Because the access permission should apply from The Alzheimer's Disease Neuroimaging Initiative (ADNI, http://adni.loni.usc.edu).   
 The genetic data include:  
 (1) ADNI_JansenNG_33gene_unimputed.bed  
 (2) ADNI_JansenNG_33gene_unimputed.fam  
