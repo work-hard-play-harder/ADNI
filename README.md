@@ -19,7 +19,7 @@ The genetic data include:
 (1) ADNI_JansenNG_33gene_unimputed.bed  
 (2) ADNI_JansenNG_33gene_unimputed.fam  
 (3) ADNI_JansenNG_33gene_unimputed.bim  
-The selected ADAS subjects and scores file which appear both in genetic and image data is:
+The selected ADAS subjects and scores file which appear both in genetic and image data is:  
 (1) ADAS_selected.csv  
 The selected MMSE subjects and scores file is:  
 (2) MMSE_selected.csv  
