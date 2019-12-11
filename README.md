@@ -24,6 +24,7 @@ The selected ADAS subjects and scores file which appear both in genetic and imag
 (1) ADAS_selected.csv  
 The selected MMSE subjects and scores file is:  
 (2) MMSE_selected.csv  
+
 For more information about the scores, please check https://adni.loni.usc.edu/wp-content/uploads/2012/08/instruction-about-data.pdf
 
 ## Methods
